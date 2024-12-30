@@ -23,6 +23,7 @@ requirements:
     - pip
     - python {{ python_min }}
     - sty
+    - setuptools
   run:
     - click
     - numpy
